@@ -1,0 +1,4 @@
+services:
+#    minsal_catalogo.example:
+#        class: Minsal\CatalogoBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

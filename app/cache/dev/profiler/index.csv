@@ -1,0 +1,13 @@
+fed631,127.0.0.1,GET,http://nominalvac.localhost/app_dev.php/config.php,1429018889,e7e7a1
+e7e7a1,127.0.0.1,GET,http://nominalvac.localhost/app_dev.php/config.php,1429018889,
+985e7a,127.0.0.1,GET,http://nominalvac.localhost/app_dev.php/admin/,1429018896,
+6229cf,127.0.0.1,GET,http://nominalvac.localhost/app_dev.php/admin/dashboard,1429018896,
+fdda78,127.0.0.1,GET,http://nominalvac.localhost/app_dev.php/admin/minsal/catalogo/vacuna/list,1429018900,
+69b43a,127.0.0.1,GET,http://nominalvac.localhost/app_dev.php/admin/minsal/catalogo/vacuna/list,1429018914,
+78d6a9,127.0.0.1,GET,http://nominalvac.localhost/app_dev.php/admin/dashboard,1429018918,
+df8142,127.0.0.1,GET,http://nominalvac.localhost/app_dev.php/admin/dashboard,1429018920,
+93402c,127.0.0.1,GET,http://nominalvac.localhost/app_dev.php/admin/dashboard,1429018922,
+a4a5b1,127.0.0.1,GET,http://nominalvac.localhost/app_dev.php/admin/dashboard,1429018946,
+8e2675,127.0.0.1,GET,http://nominalvac.localhost/app_dev.php/admin/minsal/catalogo/vacuna/list,1429018957,
+c1bfea,127.0.0.1,GET,http://nominalvac.localhost/app_dev.php/admin/minsal/catalogo/estado/list,1429018960,
+d23ae1,127.0.0.1,GET,http://nominalvac.localhost/app_dev.php/admin/dashboard,1429018964,

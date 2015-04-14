@@ -1,0 +1,23 @@
+# Minsal/CatalogoBundle/Resources/config/admin.yml
+services:
+    sonata.admin.vacuna:
+        class: Minsal\CatalogoBundle\Admin\VacunaAdmin
+        tags:
+            - { name: sonata.admin, manager_type: orm, group: "Entidades", label: "Vacuna" }
+        arguments:
+            - ~
+            - Minsal\CatalogoBundle\Entity\Vacuna
+            - ~
+        calls:
+            - [ setTranslationDomain, [MinsalCatalogoBundle]]
+
+    sonata.admin.estado:
+        class: Minsal\CatalogoBundle\Admin\EstadoAdmin
+        tags:
+            - { name: sonata.admin, manager_type: orm, group: "Entidades", label: "Estado" }
+        arguments:
+            - ~
+            - Minsal\CatalogoBundle\Entity\Estado
+            - ~
+        calls:
+            - [ setTranslationDomain, [MinsalCatalogoBundle]]
