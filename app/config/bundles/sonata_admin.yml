@@ -1,8 +1,8 @@
 sonata_admin:
     security:
         handler: sonata.admin.security.handler.role
-    title:       Sistema X
-    title_logo:  /bundles/applicationcore/images/escudo.png
+    title:       'Nominal-vac v 03.24.15'
+    title_logo:  /bundles/minsalcatalogo/images/dtic.png
     templates:
         # default global templates
         layout:  SonataAdminBundle::standard_layout.html.twig
